@@ -1,5 +1,5 @@
 ## Jonas Pereira
-**`Desenvolvedor full Stack`**
+**Desenvolvedor full Stack**
 Sou estudante de Sistemas de Informação, com foco em me tornar desenvolvedor Full Stack. Tenho direcionado meus estudos para Java e o ecossistema Spring Boot, desenvolvendo APIs REST com autenticação via JWT, integração com banco de dados usando JPA/Hibernate.
    <p align="left">
     <a href="https://www.linkedin.com/in/jonas-pereira-42391a32b">
@@ -14,7 +14,7 @@ Sou estudante de Sistemas de Informação, com foco em me tornar desenvolvedor F
 </p>
 ---
 ### Stacks
-           
+
 <img
     align="left"
     alt="Java"
@@ -30,7 +30,7 @@ align="left"
     width="50px"
     style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-          
+
 <img
 align="left"
     alt="MySQL"
@@ -45,9 +45,7 @@ align="left"
     width="40px"
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-          
-          
-          
+
 <img
 align="left"
     alt="CSS"
@@ -55,7 +53,7 @@ align="left"
     width="40px"
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-          
+
 <img 
 align="left"
     alt="JavaScript"
