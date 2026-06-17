@@ -83,7 +83,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wor
     height="120px"
 />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasPereira533&theme=tokyonight&layout=compact&locale=pt-br&lang_colors=Java:FF0000,HTML:0000FF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasPereira533&theme=tokyonight&layout=compact&locale=pt-br"
     alt="Linguagens mais usadas"
     height="150px"
   />
