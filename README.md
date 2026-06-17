@@ -1,6 +1,9 @@
 ## Jonas Pereira
-**Desenvolvedor full Stack**
+**`Desenvolvedor full Stack`**
+
 Sou estudante de Sistemas de Informação, com foco em me tornar desenvolvedor Full Stack. Tenho direcionado meus estudos para Java e o ecossistema Spring Boot, desenvolvendo APIs REST com autenticação via JWT, integração com banco de dados usando JPA/Hibernate.
+
+
    <p align="left">
     <a href="https://www.linkedin.com/in/jonas-pereira-42391a32b">
         <img alt="LinkedIn" title="Me conecte no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -12,9 +15,13 @@ Sou estudante de Sistemas de Informação, com foco em me tornar desenvolvedor F
         <img alt="Commits" title="Total de commits" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/commits?q=author:jonasPereira533&label=Commits&query=$.total_count&style=for-the-badge&color=red&logo=git&logoColor=white"/>
         </a>
 </p>
+
 ---
+
 ### Stacks
 
+
+           
 <img
     align="left"
     alt="Java"
@@ -23,6 +30,8 @@ Sou estudante de Sistemas de Informação, com foco em me tornar desenvolvedor F
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
+
+
 <img
 align="left"
     alt="Spring"
@@ -30,6 +39,9 @@ align="left"
     width="50px"
     style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+          
+
+
 
 <img
 align="left"
@@ -38,6 +50,9 @@ align="left"
     width="50px"
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+
+
 <img
 align="left"
     alt="HTML"
@@ -45,7 +60,9 @@ align="left"
     width="40px"
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-
+          
+          
+          
 <img
 align="left"
     alt="CSS"
@@ -53,6 +70,8 @@ align="left"
     width="40px"
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+          
+
 
 <img 
 align="left"
@@ -61,6 +80,8 @@ align="left"
     width="35px"
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
 <img 
 align="left"
     alt="Git"
@@ -69,11 +90,14 @@ align="left"
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
 />
+
 <br/>
 <br/>
 <br/>
 <br/>
+
 ## 📊 Estatísticas
+
 <p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=jonasPereira533&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
@@ -83,6 +107,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wor
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasPereira533&theme=tokyonight&layout=compact&locale=pt-br"
     alt="Linguagens mais usadas"
-    height="150px"
+    height="120px"
   />
 </p>
+
+
