@@ -97,15 +97,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wor
 <br/>
 
 ## 📊 Estatísticas
-
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=jonasPereira533&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+    src="https://github-stats-extended.vercel.app/api?username=jonasPereira533&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
     alt="Estatísticas do GitHub de Jonas"
     height="120px"
 />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasPereira533&theme=tokyonight&layout=compact&locale=pt-br"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=jonasPereira533&theme=tokyonight&layout=compact&locale=pt-br"
     alt="Linguagens mais usadas"
     height="120px"
   />
